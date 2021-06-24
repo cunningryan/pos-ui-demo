@@ -1,4 +1,4 @@
-import demoPng from '../../../assets/demo.png';
+import demoPng from '../../../assets/demo_white.png';
 
 export default () => (
   <div class="w-1/2 max-w-xs sm:w-48">
